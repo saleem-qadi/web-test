@@ -1,2 +1,2 @@
 # Website Basics
-website basics 
+website basics HTML, CSS, and Javascript
